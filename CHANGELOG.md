@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Version 0.2
+
+Updated to module pattern
+
 ## Version 0.1
 
 Initial check-in.

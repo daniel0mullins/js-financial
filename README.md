@@ -4,7 +4,7 @@ This is a set of financial functions written in JavaScript.
 
 ## Code Example
 
-    pmt = function(rate_per_period, number_of_payments, present_value, future_value, type);
+    var myPMT = JSfinancial.pmt(rate_per_period, number_of_payments, present_value, future_value, type);
 
 ## Motivation
 
