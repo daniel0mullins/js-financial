@@ -37,8 +37,8 @@ var JSfinancial = (function () {
             return ipmt;
         },
         ppmt: function (rate_per_period, period, number_of_payments, present_value, future_value, type) {
-            if (future_value === "undefined") { future_value = 0.0; }
-            if (type === "undefined") { type = 0.0; }
+            if (future_value === undefined) { future_value = 0.0; }
+            if (type === undefined) { type = 0.0; }
 
             var thePmt = this.pmt(rate_per_period, number_of_payments, present_value, future_value, type),
                 theIpmt = this.ipmt(rate_per_period, period, number_of_payments, present_value, future_value, type);
