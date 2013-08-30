@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Version 0.3
+
+Ran lint brush over the module
+
 ## Version 0.2
 
 Updated to module pattern
