@@ -8,11 +8,11 @@ This is a set of financial functions written in JavaScript.
 
 ## Motivation
 
-I had a need for some financial functions for client side code, and none existed where I could find them - so I made my own! Now sharing so someone can be lazy where I couldn't!
+I had a need for some financial functions for client-side calculator, and none existed where I could find them - so I made my own! Now sharing so someone can be lazy where I couldn't!
 
 ## Installation
 
-Just reference in the `<head>` of your document. Currently functions just exist in the global namespace ... bad form, I know. I'll get around to modularizing this soon.
+Just reference in the `<head>` of your document.
 
 
 ## Contributors
